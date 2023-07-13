@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/deleteExpense"
+        android:title="Delete"
+        app:showAsAction="always"
+        android:icon="@drawable/delete_24"/>
+
+<item
+    android:id="@+id/saveExpense"
+    android:title="save"
+    app:showAsAction="always"
+    android:icon="@drawable/check_24"/>
+
+</menu>
